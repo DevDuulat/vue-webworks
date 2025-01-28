@@ -14,23 +14,23 @@
             <nav aria-label="Global">
               <ul class="flex items-center gap-6 text-sm">
                 <li>
-                  <a class="text-white transition" href="index.html"> Главная </a>
+                  <a class="text-white transition" href=""> Главная </a>
                 </li>
 
                 <li>
-                  <a class="text-white transition" href="about.html"> О нас </a>
+                  <a class="text-white transition" href=""> О нас </a>
                 </li>
 
                 <li>
-                  <a class="text-white transition" href="faq.html"> FAQ </a>
+                  <a class="text-white transition" href=""> FAQ </a>
                 </li>
 
                 <li>
-                  <a class="text-white transition" href="posts.html"> Новости </a>
+                  <a class="text-white transition" href=""> Новости </a>
                 </li>
 
                 <li>
-                  <a class="text-white transition" href="partners.html"> Партнёры </a>
+                  <a class="text-white transition" href=""> Партнёры </a>
                 </li>
               </ul>
             </nav>
